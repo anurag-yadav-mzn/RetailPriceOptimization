@@ -1,6 +1,4 @@
-# RetailPriceOptimization
-Retail Price Optimization using Python
-Retail Price Optimization?
+# Retail Price Optimization
 Optimizing retail prices means finding the perfect balance between the price you charge for your products and the number of products you can sell at that price. Retail price optimization involves determining the optimal selling price for products or services to maximize revenue and profit.
 
 The ultimate aim is to charge a price that helps you make the most money and attracts enough customers to buy your products. It involves using data and pricing strategies to find the right price that maximizes your sales and profits while keeping customers happy.
@@ -8,7 +6,7 @@ The ultimate aim is to charge a price that helps you make the most money and att
 The retail industry is highly competitive, and pricing plays a crucial role in attracting customers and maximizing profits. Pricing decisions are complex and influenced by various factors such as cost of goods sold (COGS), market demand, competition, and desired profit margins. So, companies need to optimize their pricing strategies to find the middle ground that maximizes sales while maintaining profitability.
 
 <ul>
-Dataset fileds:
+Dataset is obtained from kaggle. Dataset fileds:
 <li>
 product_id: A unique identifier for each product in the dataset.
 </li>
