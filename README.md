@@ -5,8 +5,9 @@ The ultimate aim is to charge a price that helps you make the most money and att
 
 The retail industry is highly competitive, and pricing plays a crucial role in attracting customers and maximizing profits. Pricing decisions are complex and influenced by various factors such as cost of goods sold (COGS), market demand, competition, and desired profit margins. So, companies need to optimize their pricing strategies to find the middle ground that maximizes sales while maintaining profitability.
 
+Dataset is obtained from kaggle. 
 <ul>
-Dataset is obtained from kaggle. Dataset fileds:
+Dataset fileds:
 <li>
 product_id: A unique identifier for each product in the dataset.
 </li>
